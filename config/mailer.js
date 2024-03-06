@@ -14,7 +14,7 @@ const spedisciMailConferma = (to, urlToken) => {
     service: "Gmail",
     auth: {
       user: "radice.p@gmail.com",
-      pass: "rflifvprjesmglvy",
+      pass: "*******************",
     },
   });
   //sendmail restituisce una promise
